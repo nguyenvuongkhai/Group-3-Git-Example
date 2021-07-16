@@ -1,3 +1,3 @@
 
 
-var name = "Edward";
+const name = "Edward";
